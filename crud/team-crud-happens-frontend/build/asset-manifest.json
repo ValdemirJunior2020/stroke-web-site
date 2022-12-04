@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9823030b.chunk.css",
+    "main.js": "/static/js/main.3e5272d2.chunk.js",
+    "main.js.map": "/static/js/main.3e5272d2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d8361808.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d8361808.js.map",
+    "static/js/2.6f438696.chunk.js": "/static/js/2.6f438696.chunk.js",
+    "static/js/2.6f438696.chunk.js.map": "/static/js/2.6f438696.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9823030b.chunk.css.map": "/static/css/main.9823030b.chunk.css.map",
+    "static/js/2.6f438696.chunk.js.LICENSE.txt": "/static/js/2.6f438696.chunk.js.LICENSE.txt",
+    "static/media/communityJoy.4c3719a2.jpg": "/static/media/communityJoy.4c3719a2.jpg",
+    "static/media/epiPictwo.55779201.jpg": "/static/media/epiPictwo.55779201.jpg",
+    "static/media/hopeImage.8c6a33ee.jpg": "/static/media/hopeImage.8c6a33ee.jpg",
+    "static/media/johnPictwo.af887324.jpg": "/static/media/johnPictwo.af887324.jpg",
+    "static/media/juniorPictwo.65fdca98.jpg": "/static/media/juniorPictwo.65fdca98.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8361808.js",
+    "static/js/2.6f438696.chunk.js",
+    "static/css/main.9823030b.chunk.css",
+    "static/js/main.3e5272d2.chunk.js"
+  ]
+}
